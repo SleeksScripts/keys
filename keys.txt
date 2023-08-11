@@ -1,8 +1,8 @@
 {
-  "keys": [
-    "3REWQRT9ML",
-    "FO4VGZM0XF",
-    "YOUR_KEY_3",
-    // Add more keys as needed
-  ]
+    "keys": [
+        "Key1",
+        "Key2",
+        "Key3"
+        // Add more keys here
+    ]
 }
